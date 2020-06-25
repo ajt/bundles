@@ -5,9 +5,9 @@ import shutil
 import json
 
 # Setup debug logging...
-log_file = os.environ['HOME'] + '/Attachments/MailMate.log'
+log_file = '~/.MailMate.log'
 log = open(log_file, 'w')
-
+log.write('Starting ATTACHSAVE')
 
 # Parse the json from MailMate to save the attachments
 if "MM_FILES" in os.environ:
