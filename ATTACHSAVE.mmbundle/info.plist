@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>description</key>
-	<string>Save PDF attachments based on sender name.</string>
+	<string>Save all attachments</string>
 	<key>name</key>
-	<string>My Saver</string>
+	<string>ATTACHSAVE</string>
 	<key>uuid</key>
 	<string>1F1196F4-6A61-4D3C-9D9D-AC942C30C1BA</string>
 </dict>
